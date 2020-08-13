@@ -8,10 +8,10 @@ body{
     background: linear-gradient(to right, #3F5EFB, #FC466B); 
 }
 .middle{
-    top: 5rem;
+    top: 2rem;
     margin: auto;
-    width: 40%;
-    height: 10rem;
+    width: 55%;
+    height: 9rem;
     position: relative;
     background-color: #eee;
     border-radius: 3px;
@@ -23,14 +23,14 @@ body{
     height: 3rem;
     border: 1px solid rgb(212, 83, 83);
     border-radius: 50%;
-    margin-left: 6.5rem;
+    margin-left: 6rem;
     top: 1rem;
 }
 .middle .inp1{
     width: 8rem;
     height: 0.7rem;
     position: absolute;
-    margin-left: 4rem;
+    margin-left: 3.5rem;
     top: 5rem;
     display: block;
     font-size: 0.4rem;
@@ -43,7 +43,7 @@ body{
     width: 8rem;
     height: 0.7rem;
     position: absolute;
-    margin-left: 4rem;
+    margin-left: 3.5rem;
     top: 6rem;
     display: block;
     font-size: 0.4rem;
@@ -55,7 +55,7 @@ body{
     .middle button{
         position: absolute;
         top: 7rem;
-        margin-left: 6.5rem;
+        margin-left: 6rem;
         height: 1rem;
         width: 3rem;
         font-size: 0.6rem;
@@ -72,5 +72,5 @@ body{
         font-size: 8px;
         background-color: transparent;
         color: white;
-        padding-left: 17rem;
+        margin-left: 12rem;
     }
